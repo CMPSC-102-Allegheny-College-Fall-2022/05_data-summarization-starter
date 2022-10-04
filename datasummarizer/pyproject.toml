@@ -2,7 +2,7 @@
 name = "datasummarizer"
 version = "0.1.0"
 description = ""
-authors = ["Gregory M. Kapfhammer <gkapfham@allegheny.edu>"]
+authors = ["Your_Name <you@allegheny.edu>"]
 
 [tool.poetry.scripts]
 datasummarizer = "datasummarizer.main:cli"
