@@ -19,7 +19,10 @@ a terminal window and both the Python programming language and the Poetry packag
 
 ## Project Access
 
-You can access this assignment by clicking the link provided to you in Discord or in the course schedule. Once you click this link it will create a GitHub repository that you can clone to your computer by using the `git clone` command to download the project from GitHub to your computer. Now you are ready to add source code and documentation to the project!
+You can access this assignment by clicking the link provided to you in Discord or in the
+course schedule. Once you click this link it will create a GitHub repository that you can
+clone to your computer by using the `git clone` command to download the project from GitHub
+to your computer. Now you are ready to add source code and documentation to the project!
 
 ## Expected Output
 
